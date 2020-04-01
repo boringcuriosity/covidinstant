@@ -6,7 +6,7 @@ const FooterComponent = () => {
             <footer className="page-footer blue-grey darken-4">
                 <div className="container  footer-copyright">
                     Made with &hearts; by Digvijay
-                    <a href="https://twitter.com/novadigvijay">@novadigvijay</a>
+                    <a href="https://github.com/digvijaysrathore/covidinstant">Github</a>
                 </div>
             </footer>
         </div>
